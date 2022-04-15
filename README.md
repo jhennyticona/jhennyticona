@@ -2,7 +2,7 @@
 - 👀 I’m interested in  aprender e crescer profissionalmente
 - 🌱 I’m currently learning Javascript, CSS, HTML, Bootstrap, .NET e C#
 - 💞️ I’m looking to collaborate on  em projetos para aprender cada dia mais e mais
-- 📫 How to reach me ...mandando um email a jhenny.ticona.sis@gmail.com
+- 📫 How to reach me ...mandando um email jhenny.ticona.sis@gmail.com
 
 <!---
 jhennyticona/jhennyticona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
