@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhennyticona
 - 👀 I’m interested in  aprender e crescer profissionalmente
-- 🌱 I’m currently learning Javascript, CSS, HTML, Bootstrap, .NET e C#
+- 🌱 I’m currently learning Javascript, CSS, HTML, Bootstrap, .NET, C# e Java
 - 💞️ I’m looking to collaborate on  em projetos para aprender cada dia mais e mais
 - 📫 How to reach me ...mandando um email jhenny.ticona.sis@gmail.com
 
